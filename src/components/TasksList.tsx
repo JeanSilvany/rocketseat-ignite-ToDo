@@ -14,7 +14,7 @@ interface TasksListProps {
   tasks: Task[];
   toggleTaskDone: (id: number) => void;
   removeTask: (id: number) => void;
-  editTask: (id: number) => void;
+  editTask: (taskId: number, taskNewTitle: string) => void;
 }
 
 export function TasksList({
