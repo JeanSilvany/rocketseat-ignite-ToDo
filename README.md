@@ -10,7 +10,7 @@ Funcionalidades adicionadas:
 - Adicionar Task
 - Editar Task
 - Remover Task
-- Marcar Task #
+- Marcar Task
 
 Estou muito satisfeito e grato com o aprendizado que venho adquirindo através das aulas e tarefas propostas no curso. Foi um CRUD divertido de implementar, me empolguei tanto nessa brincadeira que fiz até os desafios extras. 
 
